@@ -6,7 +6,7 @@ accounts:
   # 第一个账号
   - token: ai=4;ci=1;oi=350891370;ct=v2_429d84f99a3159fa8e44756f8c851d93b74e0c82;si=51c50d180626144a66dc8a0e42b34b5537cd46f36c73b4347c21c598093f8328;bi=hk4e_cn
 
-    type: Windows 10 
+    type: 16 
     # sysver：如果你是安卓版抓的，这个应该会显示你的安卓版本（鸿蒙不清楚，手上没设备）
     # 如果你是网页版抓的，这个应该是你的系统版本（注：Windows 10和Windows 11都是写的Windows 10）
     sysver: Windows 10 
